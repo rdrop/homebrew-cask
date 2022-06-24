@@ -14,7 +14,7 @@ cask "suspicious-package" do
   else
     version "4.2.1,932"
     url "https://www.mothersruin.com/software/downloads/SuspiciousPackage.dmg"
-    sha256 :no_check
+    sha256 "5c05df9bf3d56758a3eefa972597e3138afdea4c3774f91fe2849482b7112823"
   end
 
   name "Suspicious Package"
